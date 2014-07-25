@@ -1,4 +1,4 @@
-##Title: Codebook for Data Science Getting and Cleaning project
+##Codebook for Data Science Getting and Cleaning project
 
 ###Introduction
 This codebook provides information on the structure, contents, and layout of the "Tidy" data file produced by this project plus some basic information on the raw data from which the tidy data was constructed.
